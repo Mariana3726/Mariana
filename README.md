@@ -1,6 +1,11 @@
-# 💫 About Me:
-Actualmente estoy estudiando Tecnicatura en Programación en la UTN
-
+<div id="headeer" align="center">
+    <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" />
+    <h1 align="center">Hola👋, Soy Mariana!</h1>
+    <h2 align="center"> 💫 Sobre mi</h2>
+    <h3 align="center">Estoy estudiando la Tecnicatura en Programación en la Universidad Tecnológica Nacional San Rafael,lenguajes como: Python, Java, JavaScript.
+        Bases de Datos: SQL, MySQL.
+    </h3>
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/marianafaguilera) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-aguilera-964395106/) 
